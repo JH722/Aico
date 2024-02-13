@@ -124,16 +124,40 @@ export default function FourSection() {
                   xmlns="http://www.w3.org/2000/svg"
                 >
                   <path
-                    d="M32.9785 17.9688C33.3174 14.5563 33.3176 12.682 32.9785 9.41851C29.7151 9.07939 27.8408 9.07959 24.4283 9.41851"
-                    strokeWidth="3"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
+                    d="M17.9992 31.9983C25.7307 31.9983 31.9983 25.7307 31.9983 17.9992C31.9983 10.2676 25.7307 4 17.9992 4C10.2676 4 4 10.2676 4 17.9992C4 25.7307 10.2676 31.9983 17.9992 31.9983Z"
+                    stroke-width="3"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
                   ></path>
                   <path
-                    d="M32.9681 9.46094L19.2866 23.1426L14.1437 17.9997L2.57227 29.5712"
-                    strokeWidth="3"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
+                    d="M10.8926 20.1523C11.9694 24.029 16.2769 26.3981 20.1536 25.3213C22.5227 24.4598 24.461 22.5214 25.1071 20.1523"
+                    stroke-width="3"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M23.7084 14.7684C23.411 14.7684 23.1699 14.5273 23.1699 14.2299C23.1699 13.9325 23.411 13.6914 23.7084 13.6914"
+                    stroke-width="3"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M23.7096 14.7684C24.007 14.7684 24.248 14.5273 24.248 14.2299C24.248 13.9325 24.007 13.6914 23.7096 13.6914"
+                    stroke-width="3"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M12.2924 14.7684C11.995 14.7684 11.7539 14.5273 11.7539 14.2299C11.7539 13.9325 11.995 13.6914 12.2924 13.6914"
+                    stroke-width="3"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  ></path>
+                  <path
+                    d="M12.2935 14.7684C12.5909 14.7684 12.832 14.5273 12.832 14.2299C12.832 13.9325 12.5909 13.6914 12.2935 13.6914"
+                    stroke-width="3"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
                   ></path>
                 </svg>
                 초보자도 쉽게, 부담없이 만들어요!
