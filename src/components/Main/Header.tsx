@@ -1,6 +1,7 @@
 'use client';
 
 import useScrollStore from '@/store/ScrollStore';
+import Image from 'next/image';
 import { useEffect } from 'react';
 
 export default function Header() {
@@ -35,7 +36,9 @@ export default function Header() {
         <div className="flex lg:flex-1">
           <a className="-m-1.5 p-1.5" href="#">
             <span className="sr-only">Your Company</span>
-            <img
+            <Image
+              width={94}
+              height={32}
               className="h-8 w-auto"
               src="https://aico.tv/images/logo/aico_event_logo.svg"
               alt=""
