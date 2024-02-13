@@ -2,7 +2,7 @@
 import { useState } from 'react';
 
 export default function SearchSection() {
-  const [query, setQuery] = useState('');
+  const [query, setQuery] = useState<string>('');
 
   const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(event.target.value);

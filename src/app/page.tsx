@@ -7,6 +7,7 @@ import SearchSection from '@/components/SearchSection';
 import ShortSection from '@/components/ShotrSection';
 import SlideSection from '@/components/SlideSection';
 import Image from 'next/image';
+import chatBtn from '../../public/chatBtn.png';
 
 export default function Home() {
   return (
@@ -26,6 +27,22 @@ export default function Home() {
       <SlideSection />
       <FourSection />
       <Footer />
+      <div
+        style={{
+          position: 'fixed',
+          bottom: 20,
+          right: 20,
+          zIndex: 9999,
+        }}
+      >
+        <Image
+          className="cursor-pointer"
+          src={chatBtn}
+          width={75}
+          height={75}
+          alt="ChatBtn"
+        />
+      </div>
     </div>
   );
 }

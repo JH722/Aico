@@ -2,7 +2,7 @@
 import { useState } from 'react';
 
 export default function VideoSection() {
-  const [searchValue, setSearchValue] = useState('');
+  const [searchValue, setSearchValue] = useState<string>('');
 
   const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setSearchValue(event.target.value);
@@ -25,7 +25,7 @@ export default function VideoSection() {
         <div className="mx-auto flex-shrink-0 lg:mx-0 lg:max-w-lg lg:pt-8">
           <h1
             style={{ lineHeight: 1.2 }}
-            className="mt-16 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl lg:mt-10"
+            className="mt-16 text-4xl mr-20 font-bold tracking-tight text-gray-900 sm:text-5xl lg:mt-10"
           >
             단 <b className="text-secondary100">3번</b>의 클릭으로
             <br /> 만드는 <b className="text-secondary100">쇼츠</b>

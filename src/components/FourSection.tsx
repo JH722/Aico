@@ -41,12 +41,12 @@ export default function FourSection() {
                     <path
                       d="M68.9205 17.331C40.8769 17.331 18.1367 39.8457 18.1367 67.6112V116.073C18.1367 118.762 20.3357 120.914 23.0262 120.914H56.4251C59.1415 120.914 61.3146 118.737 61.3146 116.073V108.542H76.5523V116.073C76.5523 118.762 78.7513 120.914 81.4419 120.914H114.815C117.531 120.914 119.704 118.737 119.704 116.073V67.6112C119.73 39.8457 96.9901 17.331 68.9205 17.331ZM68.9205 80.9561C62.7116 80.9561 57.6669 75.9614 57.6669 69.814C57.6669 63.6667 62.7116 58.6719 68.9205 58.6719C75.1295 58.6719 80.1742 63.6667 80.1742 69.814C80.1742 75.9614 75.1295 80.9561 68.9205 80.9561Z"
                       fill="white"
-                      fill-opacity="0.1"
+                      fillOpacity="0.1"
                     ></path>
                     <path
                       d="M170.964 21.3615H135.753C132.899 21.3615 130.586 23.6396 130.586 26.4497V115.826C130.586 118.636 132.899 120.914 135.753 120.914H170.964C173.817 120.914 176.13 118.636 176.13 115.826V26.4497C176.13 23.6396 173.817 21.3615 170.964 21.3615Z"
                       fill="white"
-                      fill-opacity="0.1"
+                      fillOpacity="0.1"
                     ></path>
                   </g>
                 </svg>
@@ -62,15 +62,15 @@ export default function FourSection() {
                 >
                   <path
                     d="M32.9785 17.9688C33.3174 14.5563 33.3176 12.682 32.9785 9.41851C29.7151 9.07939 27.8408 9.07959 24.4283 9.41851"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
+                    strokeWidth="3"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
                   ></path>
                   <path
                     d="M32.9681 9.46094L19.2866 23.1426L14.1437 17.9997L2.57227 29.5712"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
+                    strokeWidth="3"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
                   ></path>
                 </svg>
                 강력한 채널 홍보와 구독자 확보 방법
@@ -109,7 +109,7 @@ export default function FourSection() {
                     <path
                       d="M23.8541 21.3615H-11.3568C-14.2102 21.3615 -16.5234 23.6396 -16.5234 26.4497V115.826C-16.5234 118.636 -14.2102 120.914 -11.3568 120.914H23.8541C26.7076 120.914 29.0208 118.636 29.0208 115.826V26.4497C29.0208 23.6396 26.7076 21.3615 23.8541 21.3615Z"
                       fill="white"
-                      fill-opacity="0.1"
+                      fillOpacity="0.1"
                     ></path>
                   </g>
                 </svg>
@@ -125,15 +125,15 @@ export default function FourSection() {
                 >
                   <path
                     d="M32.9785 17.9688C33.3174 14.5563 33.3176 12.682 32.9785 9.41851C29.7151 9.07939 27.8408 9.07959 24.4283 9.41851"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
+                    strokeWidth="3"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
                   ></path>
                   <path
                     d="M32.9681 9.46094L19.2866 23.1426L14.1437 17.9997L2.57227 29.5712"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
+                    strokeWidth="3"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
                   ></path>
                 </svg>
                 초보자도 쉽게, 부담없이 만들어요!

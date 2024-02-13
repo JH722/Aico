@@ -1,10 +1,9 @@
 'use client';
 
 import useScrollStore from '@/store/ScrollStore';
-import { useEffect, useState } from 'react';
+import { useEffect } from 'react';
 
 export default function Header() {
-  // const [scrolled, setScrolled] = useState(false);
   const { scrolled, setScrolled } = useScrollStore();
 
   useEffect(() => {
